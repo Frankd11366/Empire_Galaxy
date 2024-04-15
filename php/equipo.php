@@ -46,9 +46,9 @@ include('header.php');
       </tr>
       <tr>
         <td><img src="/images/daniel.jpg" width="300px"></td>
-        <td><video src="/images/carpio.mp4" width="300px" controls autoplay loop muted></video></td>
-        <td><img src="/images/mikio.jpg" width="300px"></td>
-        <td><video src="/images/moran.mp4" width="300px" controls autoplay loop muted></video></td>
+        <td><img src="/images/piola.jpg" width="300px"></td>
+        <td><img src="/images/miki.jpg" width="300px"></td>
+        <td><img src="/images/morix.jpg" width="300px"></td>
       </tr>
     </tbody>
   </table>
