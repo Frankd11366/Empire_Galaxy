@@ -1,0 +1,84 @@
+body{
+  background-image: url(../images/blanco.jpg);
+  background-attachment: fixed;
+}
+
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    margin: 0;
+    padding: 500;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: right;
+    border-right:1px solid #bbb;
+  }
+  
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 50px;
+    text-decoration:double;
+    font-family: "Anta", sans-serif;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #e14000;
+  }
+  
+  .active {
+    background-color: #e14000;
+  }
+
+  h1{ 
+
+    color: black;
+    text-align: center;
+    font-family: "Anta", sans-serif;
+
+  }
+
+  .logo{
+
+    position:static;
+    margin-top: 10px;
+    margin-left: 1px;
+    width: 270px;
+  }
+
+  .cruz{
+    position:static;
+    margin-top: -150px;
+    margin-left: 1150px;
+    margin-bottom: 25px;
+    width: 130px;
+  
+  }
+
+  .tittle{
+
+    background-color:  rgba(255, 255, 255, 0.92);
+    border: 100px;
+    text-align: center;
+
+    }
+    
+
+
+
+  }
+
+  img{
+
+    position:static;
+    margin-left: 250px;
+    width: 800px;
+    text-align: center;
+  }
+  

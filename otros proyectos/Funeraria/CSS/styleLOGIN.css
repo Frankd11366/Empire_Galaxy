@@ -1,0 +1,50 @@
+
+body{
+    background-image: url(../images/flores.jpeg);
+  background-attachment: fixed;
+  background-size: 1400px;
+}
+  
+
+#titulo{
+    color: black;
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: black;
+}
+form{
+
+    color: black;
+    text-align: center;
+    font-family: "Anta", sans-serif;
+}
+
+.login{
+    background-color: rgba(255, 170, 0, 0.567);
+    border: 2mm;
+    border-style:double ;
+    border-color: black;
+    border-width: 8px;
+    font-size: 25px;
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.forma{
+
+    background-color: rgba(209, 209, 209, 0.617);
+    border: 2mm;
+    border-style:solid;
+    border-color: black;
+    border-width: 9px;
+    margin: 250px;
+
+}
+
+.logo{
+    position: fixed;
+    top: 175px;
+    margin-left: 150px;
+    width: 250px;
+}
